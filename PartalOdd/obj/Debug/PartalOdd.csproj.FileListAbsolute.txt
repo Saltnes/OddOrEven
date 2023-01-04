@@ -1,0 +1,7 @@
+C:\Users\robin\RiderProjects\PartalOdd\PartalOdd\bin\Debug\PartalOdd.exe
+C:\Users\robin\RiderProjects\PartalOdd\PartalOdd\bin\Debug\PartalOdd.pdb
+C:\Users\robin\RiderProjects\PartalOdd\PartalOdd\obj\Debug\PartalOdd.csproj.AssemblyReference.cache
+C:\Users\robin\RiderProjects\PartalOdd\PartalOdd\obj\Debug\PartalOdd.csproj.SuggestedBindingRedirects.cache
+C:\Users\robin\RiderProjects\PartalOdd\PartalOdd\obj\Debug\PartalOdd.csproj.CoreCompileInputs.cache
+C:\Users\robin\RiderProjects\PartalOdd\PartalOdd\obj\Debug\PartalOdd.exe
+C:\Users\robin\RiderProjects\PartalOdd\PartalOdd\obj\Debug\PartalOdd.pdb
