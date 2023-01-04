@@ -6,7 +6,7 @@ namespace PartalOdd
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Enter an integer to determine if it is even or odd:");
+            Console.WriteLine("Enter an integer (whole number) to determine if it is even or odd:");
 
 
             while (true)
@@ -24,8 +24,9 @@ namespace PartalOdd
 
                     break;
                 }
+
                 {
-                    Console.WriteLine("Invalid input. Please enter an integer.");
+                    Console.WriteLine("Invalid input. Please enter an integer (whole number).");
                 }
             }
         }
